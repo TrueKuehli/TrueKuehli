@@ -1,6 +1,6 @@
 # 💙 Welcome to my GitHub page!
 
-Hi, I'm Timon, a student studying computer science. My fields of interest are security, computer graphics and software development. I love solving problems in extremly overengineered ways. 😉
+Hi, I'm Timon, a student studying computer science. My fields of interest are security, computer graphics and software development. I love solving problems in extremely overengineered ways. 😉
 
 🖥️ You can find the technologies I'm using here, or check out my featured repositories below. Any contributions to my projects, such as stars, issues, or pull requests are always appreciated!
 
